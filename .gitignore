@@ -30,6 +30,8 @@ tests/cache.db
 *.tmproj
 *.tmproject
 *.sw?
+env/*
+.idea
 
 # OS generated files #
 ######################
